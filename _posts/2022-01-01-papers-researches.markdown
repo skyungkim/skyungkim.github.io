@@ -10,12 +10,12 @@ tags: [paper, study, research, thesis] # add tag
 I have conducted a lot of papers and researches including projects experience in the data area.
 
 ### Papers and Researches
-- <div style='text-align: justify; text-indent: -4em; margin-left: 4em;'>2017. Study on Social Issue with Semantic Network Analysis of News on 4th Industrial Revolution, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
-- <div style='text-align: justify; text-indent: -4em; margin-left: 4em;'>2017. Discover integrated field by ko-wikipedia editor network, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
-- <div css='text-justify'>2017. Study on Industrial Trend through Big Data Analysis of Financial Network, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
-- <div css='text-justify'>2017. Study on Media Frame of News in Politics, Culture and Economy with Big Data Analysis, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
-- <div css='text-justify'>2017. Characteristics Analysis of OECD State Lottery Sales Volume with perspective of Game, Technology, Culture, Economy, and Policy, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
-- <div style='text-align: justify;'>2017. Analysis of traffic research trend through big data analysis of world traffic related research, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Study on Social Issue with Semantic Network Analysis of News on 4th Industrial Revolution, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Discover integrated field by ko-wikipedia editor network, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Study on Industrial Trend through Big Data Analysis of Financial Network, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Study on Media Frame of News in Politics, Culture and Economy with Big Data Analysis, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Characteristics Analysis of OECD State Lottery Sales Volume with perspective of Game, Technology, Culture, Economy, and Policy, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Analysis of traffic research trend through big data analysis of world traffic related research, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
 - 2017\. Analysis of network trend in the mobile communication field research, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
 - 2017\. Analysis of market district hinterland in Seoul by ‘Big Data’ analysis, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
 - 2017\. Developing K POP localization strategy using Big Data : Focusing on customer response via Twitter, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
